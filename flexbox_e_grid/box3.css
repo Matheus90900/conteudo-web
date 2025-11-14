@@ -1,0 +1,12 @@
+.cantainer-pagina{
+    display: flex;
+}
+aside{
+    width: 250px;
+    background-color: #ececec;
+}
+main{
+    flex-grow: 1;
+    background-color: #8b1a1a;
+    padding: 20px;
+}

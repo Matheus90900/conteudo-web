@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header{
+    background-color: #CD8162;
+    padding: 20px;
+}
+
+footer{
+    background-color: #8B5742;
+    padding: 20px;
+}
+
+main{
+    flex-grow: 1;
+}
